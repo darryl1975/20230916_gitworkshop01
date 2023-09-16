@@ -1,0 +1,13 @@
+This is my first file.
+
+Local
+
+Untracked --> (add) --> staging --> (commit - A) --> local repo
+-- git add <filenames>
+-- git add *
+
+establish the link between local repo and github repo
+local repo --> (git remote add) --> github repo
+
+changes in local repo can be push up to github repo
+local repo --> (git push) --> github repo
