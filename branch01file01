@@ -1,0 +1,3 @@
+file 01 added at branch 01 
+
+working file (untracked) --> (git add) --> staging --> (git commit -m "xxx") --> local repo --> (git push -u origin branch01) --> github repo branch01
